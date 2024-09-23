@@ -27,6 +27,10 @@ La solución está organizada en tres capas principales:
 - **Windows Forms**
 - **SQL Server** para la base de datos
 
+## Captura de Pantalla
+
+![Captura de Pantalla](https://github.com/codestiven/AgendaElectronica-CSharp-Multicapa/blob/master/Captura%20de%20pantalla.png)
+
 ## Video de Demostración
 
 Para más detalles sobre el funcionamiento de la aplicación, puedes ver el video explicativo en el siguiente enlace: [Video de Demostración](https://www.youtube.com/watch?v=CSrjA1lC4hw).
